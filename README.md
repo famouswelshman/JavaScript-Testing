@@ -2,8 +2,6 @@
 
 Welcome James Hunt,
 
-JavaScript link for tutorial is - https://www.youtube.com/watch?v=Ttf3CEsEwMQ&ab_channel=developedbyed
-
 
 
 
